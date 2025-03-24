@@ -16,9 +16,12 @@ A lightweight Obsidian plugin that opens the **Settings panel in a separate popo
 ### Manual Installation
 
 1. Download the latest release from the [Releases Page](https://github.com/your-username/obsidian-popout-settings/releases)  
-2. Unzip the plugin folder into: your-vault/.obsidian/plugins
-
+2. Unzip the plugin folder into: `your-vault/.obsidian/plugins`
 3. In Obsidian, go to **Settings → Community Plugins**, enable Community Plugins, and then enable **Popout Settings Plugin**
+
+### Alternative Installation via BRAT (Beta Reviewers Auto-update Tool)
+
+If you’re using the BRAT plugin, you can also install it by adding the following GitHub repo: ```wambo121/Floating-Settings-for-Obsidian```
 
 
 ## 🧭 How to Use
