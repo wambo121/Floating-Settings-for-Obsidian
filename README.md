@@ -61,10 +61,8 @@ Clicking it opens Obsidian’s settings in a **standalone window** with:
 
 ## 🙌 Support
 
-🌟 Enjoy using this plugin in Obsidian?  
-Made with ❤️ by Morgan Frey
+🫶🏻 Like the project? Consider buying me a coffee or starring the repository on GitHub:  
+👉 [https://github.com/wambo121/Floating-Settings-for-Obsidian](https://github.com/wambo121/Floating-Settings-for-Obsidian)
+
 
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/morganfrey)
-
-🫶🏻 Like the project? Consider buying me a coffee or starring the repository on GitHub:  
-👉 [https://github.com/your-username/obsidian-popout-settings](https://github.com/your-username/obsidian-popout-settings)
